@@ -55,8 +55,11 @@ A fully responsive Netflix clone built with React (Vite), Tailwind CSS, and the 
     npm run dev
     ```
     Open [http://localhost:5173](http://localhost:5173) in your browser.
+    
     Or, 
+    
     Click Open Check My Publiced Link By Vercel
+    
     https://netflix-clone-demo-snowy.vercel.app/dashboard
 
 ## Project Structure
